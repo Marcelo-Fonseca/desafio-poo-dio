@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ccba120-1797-4756-b03e-1e6e4d4e9a3d" name="Changes" comment="arquivos atuazizados">
+    <list default="true" id="5ccba120-1797-4756-b03e-1e6e4d4e9a3d" name="Changes" comment="arquivos atualizados">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,7 @@
       <workItem from="1673990613878" duration="45000" />
       <workItem from="1673990681889" duration="591000" />
       <workItem from="1674040847800" duration="9796000" />
-      <workItem from="1674127859234" duration="9800000" />
+      <workItem from="1674127859234" duration="10827000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <created>1673988975400</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674138521670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="arquivos atualizados">
+      <created>1674141052001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674141052001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +138,7 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="mentoria e curso" />
     <MESSAGE value="arquivos atuazizados" />
-    <option name="LAST_COMMIT_MESSAGE" value="arquivos atuazizados" />
+    <MESSAGE value="arquivos atualizados" />
+    <option name="LAST_COMMIT_MESSAGE" value="arquivos atualizados" />
   </component>
 </project>

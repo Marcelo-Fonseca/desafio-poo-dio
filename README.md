@@ -1,6 +1,8 @@
 
-obs Esse Reade é uma copia da Professora Camila
+obs: Esse README é uma copia da Professora Camila
 https://github.com/cami-la/desafio-poo-dio
+
+
 Desafio: Aprenda na Prática Programação Orientada a Objetos
 📜 SLIDES APRESENTADO NO PROJETO 📜
 
